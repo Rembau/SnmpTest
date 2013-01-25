@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/java/java常用包/AdventNetSnmp.jar"/>
+	<classpathentry kind="lib" path="E:/java/java常用包/commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/java/java常用包/snmp.jar"/>
+	<classpathentry kind="lib" path="E:/java/java常用包/SNMP4J.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
